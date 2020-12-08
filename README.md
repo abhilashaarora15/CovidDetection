@@ -1,1 +1,2 @@
-# CovidDetection
+# Covid Detection Using XRays
+
